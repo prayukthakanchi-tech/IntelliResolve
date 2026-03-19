@@ -1,0 +1,6 @@
+INFO: System started
+WARNING: CPU usage high
+ERROR: Database connection failed
+INFO: User logged in
+CRITICAL: Memory overflow detected
+ERROR: File not found
