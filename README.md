@@ -1,25 +1,61 @@
-# IntelliResolve - AI Error Monitoring System
+# 🚀 IntelliResolve
 
-## Description
-IntelliResolve is an AI-based platform that analyzes system logs, detects anomalies, and suggests solutions to reduce downtime.
+<p align="center">
+  <b>AI-Powered Intelligent Error Monitoring Platform</b>
+</p>
 
-## Features
-- Log file upload
-- AI anomaly detection
-- Severity classification
-- Smart fix suggestions
-- Dashboard visualization
-- AI log assistant
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue"/>
+  <img src="https://img.shields.io/badge/Streamlit-Dashboard-red"/>
+  <img src="https://img.shields.io/badge/AI-Anomaly%20Detection-green"/>
+  <img src="https://img.shields.io/badge/Status-Active-success"/>
+</p>
 
-## Technologies Used
-- Python
-- Streamlit
-- Pandas
-- Scikit-learn
+---
 
-## How to Run
-1. Install dependencies:
-   pip install -r requirements.txt
+## 🔍 Overview
 
-2. Run the app:
-   streamlit run app.py
+IntelliResolve is an **AI-based log monitoring system** that detects anomalies, prioritizes critical issues, and suggests intelligent fixes.
+
+It helps organizations shift from **reactive troubleshooting → proactive monitoring**.
+
+---
+
+## ✨ Key Features
+
+- 🤖 AI-based anomaly detection  
+- ⚠️ Severity classification  
+- 💡 Smart fix suggestions  
+- 📊 Interactive dashboard  
+- 📁 Log file upload  
+- 🧠 AI assistant for troubleshooting  
+
+---
+
+## 🧠 How It Works
+
+1. Upload system logs  
+2. AI analyzes log patterns  
+3. Detects anomalies  
+4. Classifies severity  
+5. Suggests fixes  
+6. Displays results on dashboard  
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|----------|------|
+| Python | Core logic |
+| Streamlit | UI Dashboard |
+| Pandas | Data handling |
+| Scikit-learn | AI model |
+
+---
+
+## ⚙️ Installation & Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
