@@ -1,6 +1,10 @@
 # 🚀 IntelliResolve
 
 <p align="center">
+  <img src="logo.png" width="200"/>
+</p>
+
+<p align="center">
   <b>AI-Powered Intelligent Error Monitoring Platform</b>
 </p>
 
